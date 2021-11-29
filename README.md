@@ -1,4 +1,4 @@
-## Welcome to my CV
+## Charles Cook
 
 Born and raised in the UAE, I'm half British, half Lebanese, and grew up in various countries across the Middle East, Africa and Europe. I'm now based in the UK. 
 
