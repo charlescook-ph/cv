@@ -8,7 +8,7 @@ I love terrible jokes, beautifully crafted sandwiches and looking at [designer h
 
 ## Startups I've worked at
 
-**VP Operations @ [PostHog](https://posthog.com)**
+### VP Operations @ [PostHog](https://posthog.com)
 
 - Making sure ops, finance, people and legal run smoothly
 - Setting up our marketing function
@@ -16,7 +16,7 @@ I love terrible jokes, beautifully crafted sandwiches and looking at [designer h
 
 > Check out our open source [handbook](https://posthog.com/handbook/) - and copy it!
 
-**COO @ [Vitl](https://vitl.com)**
+### COO @ [Vitl](https://vitl.com)
 
 - Looked after ops, R&D, customer support and legal
 - Restructured tech team as stopgap CTO
@@ -24,7 +24,7 @@ I love terrible jokes, beautifully crafted sandwiches and looking at [designer h
 
 > Take a free personalised [consultation](https://vitl.com/consultation), backed by leading medical professionals.
 
-**Director of Product @ [ROLI](https://roli.com)**
+### Director of Product @ [ROLI](https://roli.com)
 
 - Held several roles, including Chief of Staff to the CEO
 - Grew the business from 15 to 150+ people
