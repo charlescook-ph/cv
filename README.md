@@ -6,9 +6,9 @@ I'm an experienced operations exec who helps startups to scale from seed to grow
 
 I love terrible jokes, beautifully crafted sandwiches and looking at [designer houses](https://www.themodernhouse.com/) I will never live in. I like to occasionally torment my son with my piano playing and spend more time than is probably reasonable making lists of things, à la [High Fidelity](https://en.wikipedia.org/wiki/High_Fidelity_(film)).
 
-## Where I've worked
+## Startups I've worked at
 
-**[PostHog](https://posthog.com)** - VP Operations
+**VP Operations @ [PostHog](https://posthog.com)**
 
 - Making sure ops, finance, people and legal run smoothly
 - Setting up our marketing function
@@ -16,7 +16,7 @@ I love terrible jokes, beautifully crafted sandwiches and looking at [designer h
 
 > Check out our open source [handbook](https://posthog.com/handbook/) - and copy it!
 
-**[Vitl](https://vitl.com)** - COO
+**COO @ [Vitl](https://vitl.com)**
 
 - Looked after ops, R&D, customer support and legal
 - Restructured tech team as stopgap CTO
@@ -24,7 +24,7 @@ I love terrible jokes, beautifully crafted sandwiches and looking at [designer h
 
 > Take a free personalised [consultation](https://vitl.com/consultation), backed by leading medical professionals.
 
-**[ROLI](https://roli.com)** - Director of Product
+**Director of Product @ [ROLI](https://roli.com)**
 
 - Held several roles, including Chief of Staff to the CEO
 - Grew the business from 15 to 150+ people
@@ -32,7 +32,7 @@ I love terrible jokes, beautifully crafted sandwiches and looking at [designer h
 
 > See [LUMI](https://playlumi.com/) in action - the world's first all-in-one platform for learning piano at home.
 
-## Where I've studied
+## Places I've studied
 
 - Imperial College, London - _MBA_
 - School of Oriental & African Studies, University of London - _MSc, Public Policy & Management_
