@@ -6,6 +6,8 @@ I'm an experienced operations exec who helps startups to scale from seed to grow
 
 I love terrible jokes, beautifully crafted sandwiches and looking at [designer houses](https://www.themodernhouse.com/) I will never live in. I like to occasionally torment my son with my piano playing and spend more time than is probably reasonable making lists of things, à la [High Fidelity](https://en.wikipedia.org/wiki/High_Fidelity_(film)).
 
+------
+
 ## Startups I've worked at
 
 ### VP Operations @ [PostHog](https://posthog.com)
@@ -31,6 +33,8 @@ I love terrible jokes, beautifully crafted sandwiches and looking at [designer h
 - Raised $70m+ through Series A and B
 
 > See [LUMI](https://playlumi.com/) in action - the world's first all-in-one platform for learning piano at home.
+
+------
 
 ## Places I've studied
 
