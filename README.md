@@ -52,13 +52,13 @@ I love terrible jokes, beautifully crafted sandwiches and looking at [designer h
 
 ------
 
-## What I'm reading
+## Reading list
 
 Check out my [Storygraph](https://app.thestorygraph.com/profile/piemets) - recommendations welcome!
 
 ------
 
-## Songs you should listen to
+## Music I like
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5vMagCTsIWcGjkcqvoPzcM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
