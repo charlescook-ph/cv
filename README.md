@@ -8,21 +8,29 @@ I love terrible jokes, beautifully crafted sandwiches and looking at [designer h
 
 ------
 
-## Startups I've worked at
+## What I'm doing now
 
 ### VP Operations & Marketing @ [PostHog](https://posthog.com)
 
-- Making sure ops, finance, people and legal run smoothly
-- Setting up and running our marketing function
-- Handling board and fundraising logistics
+- Putting in place the infrastructure to enable hyper growth
+- Overseeing marketing with a focus on word of mouth
+- Occasionally writing mildly useful [content](https://posthog.com/blog/startup-ops-toolkit)
 
 > Check out our open source [handbook](https://posthog.com/handbook/) - and copy it!
+
+### Partner @ [hedgehog.vc](http://hedgehog.vc)
+
+- The world's most transparent investment fund, focused exclusively on open source
+
+------
+
+## Where I've worked before
 
 ### COO @ [Vitl](https://vitl.com)
 
 - Looked after ops, R&D, customer support and legal
 - Restructured tech team as stopgap CTO
-- Ran all legals on 2 major licensing deals to giant pharma companies
+- Ran legal process on 2 major licensing deals to giant pharma companies
 
 > Take a free personalised [consultation](https://vitl.com/consultation), backed by leading medical professionals.
 
@@ -44,14 +52,14 @@ I love terrible jokes, beautifully crafted sandwiches and looking at [designer h
 
 ------
 
-## Songs you should listen to
+## What I'm reading
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/inNBpizpZkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Check out my [Storygraph](https://app.thestorygraph.com/profile/piemets) - recommendations welcome!
 
 ------
 
-## Book recommendations
+## Songs you should listen to
 
-Check out my [Storygraph](https://app.thestorygraph.com/profile/piemets) - I try to read as broadly as I can and always welcome recommendations!
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5vMagCTsIWcGjkcqvoPzcM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ------
